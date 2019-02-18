@@ -16,3 +16,10 @@ run with
 python metronome_basic.py
 ```
 
+also working on a multi threaded version where the audio stream is running constantly and the metronome adjusts every 10s
+
+to run this 
+
+```
+python metronome_threaded.py
+```
